@@ -2,5 +2,5 @@
 
 I use Debian 13, and I write code.
 
-I need to make a proper website at some point.
+Website: https://robithegit.github.io/robiwankenobi.github.io/
 
